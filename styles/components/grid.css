@@ -1,0 +1,24 @@
+.grid {
+  font-size: 0;
+  margin: 0 -23px;
+}
+
+.grid-item {
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 0px 23px;
+}
+
+.grid-2 {
+  font-size: 0;
+  margin: 0px -50px;
+}
+
+.grid-item-2 {
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  padding: 0px 50px;
+}

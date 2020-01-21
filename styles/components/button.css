@@ -1,0 +1,38 @@
+.button {
+  padding: 18px 64px;
+  border-radius: 30px;
+  color: black;
+  background: #4dffea;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.button-2 {
+  padding: 18px 64px;
+  border-radius: 30px;
+  color: black;
+  border: 1px solid #ffffff;
+  background: #4dffea;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-text {
+  border: 1px solid #ffffff;
+}
+
+.button:hover,
+.button-2:hover {
+  color: white;
+  background-color: rgba(41, 245, 123, 0.85);
+}
+
+.button:focus,
+.button-2:focus {
+  color: mediumpurple;
+  border-color: currentColor;
+  background-color: white;
+}

@@ -1,0 +1,29 @@
+.card {
+  text-align: center;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: uppercase;
+  color: #00ae9a;
+}
+
+.card-description {
+  color: #494949;
+}
+
+.card-benefits {
+  text-align: left;
+  padding: 0px;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.card-image {
+}
+
+.card-image > img {
+}
